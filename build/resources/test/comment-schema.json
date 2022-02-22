@@ -1,0 +1,22 @@
+{
+  "title": "Comment schema",
+  "type": "object",
+  "properties": {
+    "postId": {
+      "type": "integer"
+    },
+    "id": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "regex": "^(.+)@(.+)$"
+    },
+    "body": {
+      "type": "string"
+    }
+  },
+  "required": ["postId", "id", "name", "email", "body"]
+}

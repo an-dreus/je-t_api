@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostPutPatchDeleteTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-22T20:27:29" hostname="air.local" time="2.619">
+  <properties/>
+  <testcase name="patchPost()" classname="PostPutPatchDeleteTest" time="1.23"/>
+  <testcase name="putPost()" classname="PostPutPatchDeleteTest" time="0.484"/>
+  <testcase name="testDeleteMethod()" classname="PostPutPatchDeleteTest" time="0.457"/>
+  <testcase name="postPost()" classname="PostPutPatchDeleteTest" time="0.446"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

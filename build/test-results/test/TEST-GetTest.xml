@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GetTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-02-22T20:27:32" hostname="air.local" time="0.854">
+  <properties/>
+  <testcase name="findInComments()" classname="GetTest" time="0.199"/>
+  <testcase name="checkPostUserId()" classname="GetTest" time="0.088"/>
+  <testcase name="allCommentsBelongToPostId()" classname="GetTest" time="0.08"/>
+  <testcase name="allPostsResponseTime()" classname="GetTest" time="0.075"/>
+  <testcase name="checkPostBody()" classname="GetTest" time="0.081"/>
+  <testcase name="checkPostTitle()" classname="GetTest" time="0.075"/>
+  <testcase name="checkEmailInComment()" classname="GetTest" time="0.077"/>
+  <testcase name="postNotFound()" classname="GetTest" time="0.077"/>
+  <testcase name="allPostsQuantity()" classname="GetTest" time="0.1"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
