@@ -58,7 +58,7 @@ public class PostPutPatchDeleteTest {
     }
 
     @Test
-    public void testDeleteMethod() {
+    public void deletePost() {
         restAPI.deletePost(15)
                 .then()
 
